@@ -1,4 +1,4 @@
-sollida Core integration/staging tree
+Sollida Coin - Core - Node - RPC
 =====================================
 
 [![Build Status](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FKNAJZGz.png&t=592&c=Xo49TwGRWGarbA)](https://travis-ci.org/sollida-project/sollida)
