@@ -1,9 +1,9 @@
 sollida Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/sollida-project/sollida.svg?branch=master)](https://travis-ci.org/sollida-project/sollida)
+[![Build Status](https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FKNAJZGz.png&t=592&c=Xo49TwGRWGarbA)](https://travis-ci.org/sollida-project/sollida)
 
-https://sollida.org
+https://sollida.com
 
 What is sollida?
 ----------------
@@ -14,8 +14,6 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. sollida Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the sollida Core software, see [https://sollida.org](https://sollida.org).
 
 License
 -------
